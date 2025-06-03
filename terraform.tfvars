@@ -1,0 +1,8 @@
+resource_group_name         = "oumayma-farhat"
+resource_group_location     = "eastus"
+virtual_network_name        = "vnetprod017"
+subnet_name                 = "subnet017"
+public_ip_name              = "publicip017"
+network_security_group_name = "nsgprod017"
+network_interface_name      = "nicprod017"
+linux_virtual_machine_name  = "linuxvm017"
